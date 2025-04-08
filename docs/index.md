@@ -10,7 +10,7 @@ DEGO is een gezamenlijke oplossing die voortkomt uit de gemeenten zelf. Het is o
 
 [DEGO](https://dego.vng.nl/) is een Datavoorziening, oftewel een productgroep van datadiensten en informatieproducten met support voor dataspecialisten bij gemeenten. Team DEGO, onderdeel van Kenniscentrum Data & Monitoring, werkt aan het beheer en – samen met gemeenten – aan de doorontwikkeling hiervan.
 
-Meer informatie en documentatie over DEGO kunt u vinden op de [documentatie pagina's](https://vng-realisatie.github.io/docs.dego/)
+Meer informatie en documentatie over DEGO kunt u vinden op de documentatie pagina's [docs.dego.vng.nl](https://vng-realisatie.github.io/docs.dego/)
 
 
 ## Wat is DOOK
@@ -18,7 +18,7 @@ Meer informatie en documentatie over DEGO kunt u vinden op de [documentatie pagi
 Het bestrijden van ondermijnende criminaliteit is een beleidsprioriteit van veel gemeenten. Data kunnen helpen om meer inzicht te krijgen in ondermijningsvraagstukken. De Datavoorziening Onregelmatigheden Op de Kaart (DOOK) geeft gemeenten op basis van data inzichten in onregelmatigheden. Onregelmatigheden zijn situaties waarin ’iets niet klopt’. In sommige gevallen kunnen dat onjuistheden in registraties zijn. Het kan ook zijn dat uit nader onderzoek blijkt dat er sprake is van ondermijnende activiteiten.
 
 
-Meer informatie en documentatie over DOOK kunt u vinden op de [documentatie pagina's](https://vng-realisatie.github.io/docs.dook/)
+Meer informatie en documentatie over DOOK kunt u vinden op de documentatie pagina's [docs.dook.vng.nl](https://vng-realisatie.github.io/docs.dook/)
 
 
 ## Feedback en vragen
