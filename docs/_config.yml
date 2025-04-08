@@ -1,8 +1,8 @@
-baseurl: "/docs.data"
+baseurl: ""
 apiname: "Documentatie"
 versie-nr: "1.0.7"
 restAPI-Alternatief: "Nee"
-url: "http://localhost:4000"
+url: "commondatafactory.nl"
 title: Documentatie Kenniscentrum Data
 
 # nav is t.b.v. generatie side-navigation menu.
