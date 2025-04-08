@@ -1,5 +1,5 @@
 ---
-layout: landing-page
+layout: page-with-side-nav
 title: Documentatie Kenniscentrum Data
 ---
 # Datavoorziening Energietransitie Gebouwde Omgeving (DEGO) en Datavoorziening Onregelmatigheden Op de Kaart (DOOK)
