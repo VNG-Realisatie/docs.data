@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: landing-page
 title: Documentatie Kenniscentrum Data
 ---
 
