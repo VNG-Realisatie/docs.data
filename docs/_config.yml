@@ -1,0 +1,76 @@
+baseurl: "/docs.dego"
+apiname: "DEGO Documentatie"
+versie-nr: "1.0.7"
+restAPI-Alternatief: "Nee"
+url: "http://localhost:4000"
+title: Data Energie Gebouwde Omgeving (DEGO)
+
+# nav is t.b.v. generatie side-navigation menu.
+# Een 'title' zonder path of url genereert slechts een kopje.
+# 'path' vormt tezamen met de baseurl de url waarmee de 'href' wordt gevuld. 
+# Indien een 'url' voorradig dan wordt daarmee de 'href' gevuld en dient het path slechts om te bepalen welke link active is.
+# 'target: blank' zorgt er voor dat de link in een nieuw tabblad wordt geöpend.
+nav:
+  - title: Data Energie Gebouwde Omgeving (DEGO)
+    subnav:
+      - title: Home
+        path: /
+      - title: Themas
+        path: /themas
+      - title: API Documentatie
+        path: /API
+
+apinav:
+  - title: API Documentatie
+    subnav:
+      - title: Home
+        path: /
+      - title: Themas
+        path: /themas
+      - title: API Energie data
+        path: /API/energie_api 
+      - title: WFS - energie
+        path: /API/energie_wfs  
+      - title: WFS - cbs
+        path: /API/cbs_wfs
+      - title: Vector tiles
+        path: /API/vt  
+
+themanav:
+  - title: Thema Navigatie
+    subnav:
+      - title: Home
+        path: /
+      - title: Vleermuizen
+        path: /themas/vleermuizen_en_isolatie
+      - title: Gebouwen
+        path: /themas/gebouwen
+      - title: Energie verbruik
+        path: /themas/energie_verbruik
+      - title: Sociale karakteristieken
+        path: /themas/sociale_karakteristieken
+      - title: Bereidheid Verduurzaming
+        path: /themas/bereidheid_verduurzamingsmaatregelen
+      - title: Energie armoede
+        path: /themas/energie_armoede
+      - title: Koppelkansen
+        path: /themas/koppelkansen
+      - title: Ondergrond
+        path: /themas/ondergrond
+      - title: API Documentatie
+        path: /API 
+
+
+plugins:
+  - jekyll-redirect-from
+  - jekyll-remote-theme
+
+remote_theme: vng-realisatie/jekyll-theme-vngrealisatie-kcdenm
+
+github: vng-realisatie/docs.dego
+
+theme: jekyll-theme-time-machine
+
+project_name: VNG-Realisatie/DEGO
+
+standard_family: WSJG
