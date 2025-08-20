@@ -1,2 +1,8 @@
+| Eigenaar | Ingevuld door |
+| --- | --- |
+| Kennis centrum Data | Michiel Verhoef |
+<hr/>
+
+
 # docs.data
-Documentaite van Kenniscentrum Data
+Documentatie van Kenniscentrum Data
