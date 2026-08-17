@@ -2,7 +2,7 @@ baseurl: ""
 apiname: "Documentatie"
 versie-nr: "1.0.7"
 restAPI-Alternatief: "Nee"
-url: "commondatafactory.nl"
+url: ""
 title: Documentatie Kenniscentrum Data
 
 # nav is t.b.v. generatie side-navigation menu.
